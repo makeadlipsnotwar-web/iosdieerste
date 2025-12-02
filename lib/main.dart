@@ -172,7 +172,7 @@ class _FlashSmsExecutorWidgetState extends State<FlashSmsExecutorWidget> {
               'EXECUTE.FLASH.SMS',
               style: TextStyle(
                 fontSize: 32, 
-                fontWeight: FontWeight.extrabold, 
+                fontWeight: FontWeight.bold, 
                 color: kNeonAccent,
                 shadows: [Shadow(color: kNeonAccent, blurRadius: 10.0)], // Neon Glow
               ),
